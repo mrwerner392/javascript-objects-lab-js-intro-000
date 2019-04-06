@@ -4,4 +4,3 @@ var recipes = {
   'peanut butter': 'lots',
   jelly: 'some'
 };
-
